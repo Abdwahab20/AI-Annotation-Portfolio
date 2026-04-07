@@ -1,0 +1,20 @@
+AI-Annotation-Portfolio/
+│
+├── data/
+│   └── sample_images/
+│       ├── street1.jpg
+│       ├── street2.jpg
+│
+├── annotations/
+│   └── annotations.json
+│
+├── screenshots/
+│   ├── labeling_interface.png
+│   ├── bounding_boxes.png
+│   ├── export_page.png
+│
+├── docs/
+│   └── annotation_guidelines.md
+│
+├── README.md
+└── requirements.txt
